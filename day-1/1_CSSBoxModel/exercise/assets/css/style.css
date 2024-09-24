@@ -11,9 +11,9 @@ img {
     background-color: lightblue;
 
     /* Margin property */
-    margin:
+    margin: 20px;
     /* Padding property */
-
+    padding: 20px;
     /* Border property */
-
+    border: 8px solid #01018b
 }
